@@ -1,0 +1,130 @@
+#header{
+    background: linear-gradient(to right, rgb(9, 46, 132), rgb(212, 221, 239));
+    padding-top: 8px;
+    padding-bottom:12px;
+}
+
+#header .container-fluid{
+    padding-left: 0px;
+
+}
+
+#header img{
+    width:100px;
+}
+
+#header ul li a{
+    color:rgb(7, 18, 61);
+    transition-property: color;
+    transition-duration: 2s;
+}
+
+#header ul li a:hover{
+    color:rgb(183, 188, 190)
+}
+
+#header .bi-list{
+    color:white;
+    font-size:25px;
+}
+
+#header .navbar-toggler{
+    border: 1px solid rgb(5, 3, 3);
+}
+
+#banner{
+    background: linear-gradient(to right, rgb(9, 46, 132), rgb(212, 221, 239));
+    padding-top: 30px;
+}
+
+#banner h2{
+    text-align: center;
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    font-size:40px ;
+}
+
+#banner p{
+    color: rgb(10, 69, 120);
+    text-align: justify;
+
+}
+
+#services{
+    padding:15px 0px;
+    padding-bottom: 25px;
+}
+
+#services h2{
+    padding-bottom:20px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+}
+#service img{
+    width:150px;
+    padding-bottom: 10px;
+    border-radius: 50px;
+}
+
+#services h4{
+    font-size: 20px;
+}
+
+#services p{
+    text-align: justify;
+}
+
+#test{
+    padding-bottom: 30px;
+}
+
+#test p{
+    font-size: 15px;
+    text-align: justify;
+}
+
+#test .bi-list{
+    font-size: 20px;    
+}
+#test h2{
+    text-align: center;
+    padding-bottom:30px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+}
+#test img{
+    width:150px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+
+
+#footer{
+    background: linear-gradient(rgb(183, 95, 172));
+    padding-right: 20px;
+}
+
+#footer h3{
+    font-family: 'dancinf script', cursive;
+
+}
+
+#footer p{
+    color:rgb(4, 27, 62);
+    text-align: justify;
+}
+
+#footer #footer-logo{
+    width:80px ;
+    margin-bottom: 40px;
+}
+
+#footer #img{
+    width: 100px;
+}
+
+#footer #icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
